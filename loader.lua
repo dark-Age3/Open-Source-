@@ -10,6 +10,7 @@ local SUPPORTED_GAMES = {
     [14157644155] = "https://raw.githubusercontent.com/Aux-Developm3nt/Open-Source-/main/Money%20Grab%20Simulator.lua",
     [15506010437] = "https://raw.githubusercontent.com/Aux-Developm3nt/Open-Source-/main/Fun%20Squid%20game!%20Glass%20Bridge%202.lua",
     [4577486879] = "https://raw.githubusercontent.com/dark-Age3/Open-Source-/refs/heads/main/MM2%20duels.lua", -- MM2 Duels
+    [4924922222] = "https://raw.githubusercontent.com/dark-Age3/Open-Source-/refs/heads/main/Brookhaven.lua", -- Brookhaven RP
 }
 
 local scriptURL = SUPPORTED_GAMES[game.PlaceId]
