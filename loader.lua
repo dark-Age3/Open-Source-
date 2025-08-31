@@ -1,4 +1,4 @@
--- Only supports Open Source Scripts from VantaXock
+-- Only supports Open Source Scripts from VantaXock and not open source 
 local SUPPORTED_GAMES = {
     [84316229168229] = "https://raw.githubusercontent.com/Aux-Developm3nt/Open-Source-/main/Clone%20Chaos.lua",
     [126849358937279] = "https://raw.githubusercontent.com/Aux-Developm3nt/Open-Source-/main/Merge%20Gubby.lua", 
@@ -9,6 +9,7 @@ local SUPPORTED_GAMES = {
     [116495829188952] = "https://raw.githubusercontent.com/Aux-Developm3nt/Open-Source-/main/Dead%20Rails.lua",
     [14157644155] = "https://raw.githubusercontent.com/Aux-Developm3nt/Open-Source-/main/Money%20Grab%20Simulator.lua",
     [15506010437] = "https://raw.githubusercontent.com/Aux-Developm3nt/Open-Source-/main/Fun%20Squid%20game!%20Glass%20Bridge%202.lua",
+    [4577486879] = "https://raw.githubusercontent.com/dark-Age3/Open-Source-/refs/heads/main/MM2%20duels.lua", -- MM2 Duels
 }
 
 local scriptURL = SUPPORTED_GAMES[game.PlaceId]
