@@ -13,6 +13,7 @@ local SUPPORTED_GAMES = {
     [4924922222] = "https://raw.githubusercontent.com/dark-Age3/Open-Source-/refs/heads/main/Brookhaven.lua", -- Brookhaven RP
     [8665470667] = "https://raw.githubusercontent.com/dark-Age3/Open-Source-/refs/heads/main/5v5%20MM2%20Milbase.lua", -- 5v5 MM2 Milbase
     [5715080538] = "https://raw.githubusercontent.com/dark-Age3/Open-Source-/refs/heads/main/Kill%20bomb%20OP.lua", -- Red vs Blue Gun Battle
+    [94279945101354] = "https://raw.githubusercontent.com/dark-Age3/Open-Source-/refs/heads/main/Morph%20tower%20OP.lua", -- UPD Morph Tower
 }
 
 local scriptURL = SUPPORTED_GAMES[game.PlaceId]
